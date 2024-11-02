@@ -1,0 +1,1 @@
+gcc -O3 -DNDEBUG CMakeFiles/Matrix_Mult.dir/main.c.o CMakeFiles/Matrix_Mult.dir/tensor.c.o -o Matrix_Mult 

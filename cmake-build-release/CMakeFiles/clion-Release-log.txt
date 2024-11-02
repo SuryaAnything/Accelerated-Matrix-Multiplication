@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "Unix Makefiles" -S /mnt/c/Users/surya/CLionProjects/Matrix-Mult -B /mnt/c/Users/surya/CLionProjects/Matrix-Mult/cmake-build-release
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/surya/CLionProjects/Matrix-Mult/cmake-build-release
